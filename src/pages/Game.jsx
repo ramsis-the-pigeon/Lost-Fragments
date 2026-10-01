@@ -7,7 +7,7 @@ function Game() {
 
   return (
     <div>
-      <Grid/>      
+     <Grid/>      
     </div>
   )
 }
